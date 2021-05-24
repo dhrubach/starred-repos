@@ -32,6 +32,20 @@
 
 ---
 
+## Angular Example Apps
+
+- [real world example app](https://github.com/gothinkster/angular-realworld-example-app)
+  Exemplary real world application built with Angular
+
+---
+
+## Angular Utilities
+
+- [vscode angular schematics extension](https://github.com/cyrilletuzi/vscode-angular-schematics)
+  Allow you to launch Angular schematics CLI commands from files Explorer or Command Palette in Visual Studio Code.
+
+---
+
 ## Legacy AngularJS
 
 - [angular/angular-seed](https://github.com/angular/angular-seed)
