@@ -7,6 +7,11 @@
 
 ---
 
+## Build Frameworks
+
+- [webpack](https://github.com/webpack/webpack)
+  A bundler for javascript and friends. Packs many modules into a few bundled assets. <https://webpack.js.org/>
+
 ## CMS
 
 - [strapi](https://github.com/strapi/strapi)
