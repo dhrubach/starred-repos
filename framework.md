@@ -16,3 +16,8 @@
 
 - [strapi](https://github.com/strapi/strapi)
   Open source Node.js Headless CMS to easily build customisable APIs. <https://strapi.io/>
+
+## Database
+
+- [rxdb](https://github.com/pubkey/rxdb)
+  A realtime Database for JavaScript Applications. <https://rxdb.info/>
