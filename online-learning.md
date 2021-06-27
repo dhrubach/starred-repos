@@ -12,3 +12,8 @@
 
 - [typescript-vs-flowtype](https://github.com/niieani/typescript-vs-flowtype)
   Differences between Flowtype and TypeScript -- syntax and usability.
+
+## Misc
+
+- [badass-conference-talks](https://github.com/emmabostian/badass-conference-talks)
+  A repo with your favorite conference talks broken up by topics

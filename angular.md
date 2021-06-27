@@ -20,8 +20,6 @@
 - [angular performance checklist](https://github.com/mgechev/angular-performance-checklist)
   Cheatsheet for developing lightning fast progressive Angular applications
 
----
-
 ## Angular Libraries
 
 - [scully](https://github.com/scullyio/scully)
@@ -45,8 +43,6 @@
 - [ngx-formly](https://github.com/ngx-formly/ngx-formly)
   JSON powered / Dynamic forms for Angular
 
----
-
 ## Angular Example Apps
 
 - [real world example app](https://github.com/gothinkster/angular-realworld-example-app)
@@ -55,7 +51,8 @@
 - [PatrickJS/angular-starter](https://github.com/PatrickJS/angular-starter)
   Angular starter
 
----
+- [angular-eslint](https://github.com/angular-eslint/angular-eslint)
+  Monorepo for all the tooling related to using ESLint with Angular
 
 ## Angular Utilities
 
@@ -68,8 +65,6 @@
 - [ngx-admin](https://github.com/akveo/ngx-admin)
   Admin dashboard template based on Angular 10+
 
----
-
 ## Legacy AngularJS
 
 - [angular/angular-seed](https://github.com/angular/angular-seed)
@@ -80,8 +75,6 @@
 
 - [angularjs-webpack](https://github.com/preboot/angularjs-webpack)
   A complete, yet simple, starter for AngularJS using webpack
-
----
 
 ## AngularJS Component Libraries
 

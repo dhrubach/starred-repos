@@ -23,3 +23,6 @@
 
 - [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist)
   The perfect Front-End Checklist for modern websites and meticulous developers. <https://frontendchecklist.io/>
+
+- [stylestage](https://github.com/5t3ph/stylestage)
+  A modern CSS showcase styled by community contributions. Add your stylesheet! <https://stylestage.dev>
