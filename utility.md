@@ -1,4 +1,4 @@
-# Utility (6)
+# Utility (8)
 
 ## Tools
 
@@ -16,6 +16,12 @@
 
 - [squoosh](https://github.com/GoogleChromeLabs/squoosh)
   Make images smaller using best-in-class codecs, right in the browser
+
+- [packagephobia](https://github.com/styfle/packagephobia)
+  Find the cost of adding a new dependency to your project <https://packagephobia.com/>
+
+- [serverless-offline](https://github.com/dherault/serverless-offline)
+  Emulate AWS Lambda and API Gateway locally when developing your Serverless project
 
 ## Starter Projects
 

@@ -12,6 +12,6 @@
 - react applications (5)
 - react (6)
 - security (3)
-- utility (6)
+- utility (8)
 
-> total - 69
+> total - 71
