@@ -1,4 +1,4 @@
-# Utility
+# Utility (6)
 
 ## Tools
 
@@ -10,6 +10,12 @@
 
 - [kolorist](https://github.com/marvinhagemeister/kolorist)
   A tiny utility to colorize stdin/stdout.
+
+- [yachalk](https://github.com/bluenote10/yachalk)
+  Terminal string styling done right
+
+- [squoosh](https://github.com/GoogleChromeLabs/squoosh)
+  Make images smaller using best-in-class codecs, right in the browser
 
 ## Starter Projects
 

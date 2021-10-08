@@ -1,4 +1,4 @@
-# Online Learning
+# Online Learning (5)
 
 ## Web Development
 
@@ -17,3 +17,6 @@
 
 - [badass-conference-talks](https://github.com/emmabostian/badass-conference-talks)
   A repo with your favorite conference talks broken up by topics
+
+- [manager-interview-questions](https://github.com/ryanburgess/manager-interview-questions)
+  Example questions for an Engineering Manager Interview
