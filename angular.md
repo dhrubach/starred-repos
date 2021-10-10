@@ -1,4 +1,4 @@
-# Angular (24)
+# Angular (25)
 
 ## From Core Team
 
@@ -42,13 +42,13 @@
 
 - [ngx-formly](https://github.com/ngx-formly/ngx-formly)
   JSON powered / Dynamic forms for Angular
-  
+
 - [ngneat/cashew](https://github.com/ngneat/cashew)
   A flexible and straightforward library that caches HTTP requests in Angular
-  
+
 - [ngneat/transloco](https://github.com/ngneat/transloco)
   The internationalization (i18n) library for Angular
-  
+
 ## Angular Example Apps
 
 - [real world example app](https://github.com/gothinkster/angular-realworld-example-app)
@@ -70,6 +70,9 @@
 
 - [ngx-admin](https://github.com/akveo/ngx-admin)
   Admin dashboard template based on Angular 10+
+
+- [typetype](https://github.com/mistlog/typetype)
+  A programming language designed for typescript type generation
 
 ## Legacy AngularJS
 
