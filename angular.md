@@ -1,4 +1,4 @@
-# Angular (25)
+# Angular (26)
 
 ## From Core Team
 
@@ -73,6 +73,9 @@
 
 - [typetype](https://github.com/mistlog/typetype)
   A programming language designed for typescript type generation
+
+- [compodoc](https://github.com/compodoc/compodoc)
+  The missing documentation tool for your Angular, Nest & Stencil application. <https://compodoc.app/>
 
 ## Legacy AngularJS
 

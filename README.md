@@ -2,7 +2,7 @@
 
 > catalogue of starred repositories
 
-- angular (24)
+- angular (26)
 - chrome extension (1)
 - css (7)
 - framework (6)
