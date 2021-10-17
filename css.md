@@ -1,4 +1,4 @@
-# CSS (7)
+# CSS (8)
 
 ## Frameworks
 
@@ -28,4 +28,4 @@
   A modern CSS showcase styled by community contributions. Add your stylesheet! <https://stylestage.dev>
 
 - [carbon-components-svelte](https://github.com/IBM/carbon-components-svelte)
-  Svelte implementation of the Carbon Design System. <https://carbon-svelte.vercel.app> 
+  Svelte implementation of the Carbon Design System. <https://carbon-svelte.vercel.app>

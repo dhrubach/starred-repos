@@ -3,15 +3,15 @@
 > catalogue of starred repositories
 
 - angular (26)
-- chrome extension (1)
-- css (7)
+- chrome extension (2)
+- css (8)
 - framework (6)
 - graphql (4)
-- online learning (5)
+- online learning (16)
 - portfolio (2)
 - react applications (5)
 - react (6)
-- security (3)
-- utility (8)
+- security (4)
+- utility (14)
 
-> total - 71
+> total - 93
